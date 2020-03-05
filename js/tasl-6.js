@@ -20,7 +20,6 @@ while (cycle) {
     }
 
 }
-console.log(numbers);
 
 for(const number of numbers){
     total+=Number(number);

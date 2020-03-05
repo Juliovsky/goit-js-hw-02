@@ -3,8 +3,6 @@
 
 const logItems = function(array) {
 
-    console.log(array);
-
     for (let i = 0; i < array.length; i++) {
       const counter = i + 1;
       const value = array[i];
